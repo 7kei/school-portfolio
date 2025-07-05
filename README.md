@@ -19,7 +19,7 @@ Daily commuters, students, workers, new residents, and tourists navigating Phili
 - [Figma Prototype](https://www.figma.com/design/YAO5ykwG1CbXK6CRWWvo49/RutaKnows-Proto?node-id=0-1&t=qVsLDVJ6wgKjIn29-1) - Interactive app prototype
 
 # My Coursera Certificates
-Please check in the [Mar Coursera Certificates](Mar%20Coursera%Certificates/) folder.
+Please check in the [Mar Coursera Certificates](Mar%20Coursera%20Certificates/) folder.
 
 ---
 *Developed by Team HCI World - Bridging digital convenience with Filipino transportation culture*
